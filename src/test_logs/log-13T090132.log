@@ -1,0 +1,4 @@
+4908 [Test worker] INFO  com.phonebook.tests.TestBase -- Start testloginPositiveTests[]
+6523 [Test worker] INFO  com.phonebook.tests.TestBase -- PASSED: loginPositiveTests
+6524 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop test
+6525 [Test worker] INFO  com.phonebook.tests.TestBase -- ==================================================================

@@ -1,0 +1,8 @@
+3760 [Test worker] INFO  com.phonebook.tests.TestBase -- Start testloginPositiveTests[]
+14530 [Test worker] ERROR com.phonebook.tests.TestBase -- FAILED: loginPositiveTests Screenshot path: D:\GitHub\QA46_PhoneBookUI_2\screenshots\screen-1744525817237.png
+14531 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop test
+14531 [Test worker] INFO  com.phonebook.tests.TestBase -- ==================================================================
+14535 [Test worker] INFO  com.phonebook.tests.TestBase -- Start testloginNegativeWithoutEmailTests[]
+25023 [Test worker] ERROR com.phonebook.tests.TestBase -- FAILED: loginNegativeWithoutEmailTests Screenshot path: D:\GitHub\QA46_PhoneBookUI_2\screenshots\screen-1744525827748.png
+25034 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop test
+25034 [Test worker] INFO  com.phonebook.tests.TestBase -- ==================================================================

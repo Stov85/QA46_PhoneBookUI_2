@@ -1,0 +1,345 @@
+939  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  D:\GitHub\QA46_PhoneBookUI_2\src\test\resources\smoky.xml
+
+4225 [main] INFO  c.phonebook.fw.ApplicationManager -- Test start in Chrome Browser
+5930 [main] INFO  c.phonebook.fw.ApplicationManager -- Current url--> https://telranedu.web.app/home
+6082 [main] INFO  com.phonebook.tests.TestBase -- Start testisHomeComponentPresentTest[]
+6084 [main] INFO  com.phonebook.utils.MyListener -- Before find elements:By.cssSelector: div:nth-child(2)>div>div>h1
+6084 [main] INFO  com.phonebook.utils.MyListener -- ***********************************
+6116 [main] INFO  com.phonebook.utils.MyListener -- Size of elements is: 1
+6116 [main] INFO  com.phonebook.utils.MyListener -- *******************************************
+6117 [main] INFO  com.phonebook.utils.MyListener -- Before find elements:By.cssSelector: div:nth-child(2)>div>div>h1
+6117 [main] INFO  com.phonebook.utils.MyListener -- ***********************************
+6141 [main] INFO  com.phonebook.utils.MyListener -- Size of elements is: 1
+6141 [main] INFO  com.phonebook.utils.MyListener -- *******************************************
+6151 [main] INFO  com.phonebook.tests.TestBase -- PASSED: isHomeComponentPresentTest
+6151 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+6151 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
+6156 [main] INFO  com.phonebook.tests.TestBase -- Start testloginPositiveTests[]
+6158 [main] INFO  com.phonebook.utils.MyListener -- Before find elements:By.cssSelector: [href='/login']
+6159 [main] INFO  com.phonebook.utils.MyListener -- ***********************************
+6194 [main] INFO  com.phonebook.utils.MyListener -- Size of elements is: 1
+6194 [main] INFO  com.phonebook.utils.MyListener -- *******************************************
+6196 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: [href='/login']
+6196 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+6223 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: [href='/login']
+6224 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+6308 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+6309 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+6340 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+6340 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+6403 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+6404 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+6421 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+6421 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+6453 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+6454 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+6472 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+6472 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+6557 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: password
+6558 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+6580 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: password
+6580 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+6631 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: password
+6631 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+6650 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: password
+6650 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+6672 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: password
+6672 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+6689 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: password
+6689 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+6724 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: login
+6724 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+6747 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: login
+6748 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+6807 [main] INFO  com.phonebook.utils.MyListener -- Before find elements:By.xpath: //button[.='Sign Out']
+6808 [main] INFO  com.phonebook.utils.MyListener -- ***********************************
+7955 [main] INFO  com.phonebook.utils.MyListener -- Size of elements is: 1
+7955 [main] INFO  com.phonebook.utils.MyListener -- *******************************************
+7956 [main] INFO  com.phonebook.tests.TestBase -- PASSED: loginPositiveTests
+7956 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+7956 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
+7959 [main] INFO  com.phonebook.tests.TestBase -- Start testaddContactPositiveTest[]
+7960 [main] INFO  com.phonebook.utils.MyListener -- Before find elements:By.cssSelector: [href='/login']
+7961 [main] INFO  com.phonebook.utils.MyListener -- ***********************************
+17973 [main] INFO  com.phonebook.utils.MyListener -- Size of elements is: 0
+17974 [main] INFO  com.phonebook.utils.MyListener -- *******************************************
+17974 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.xpath: //button[.='Sign Out']
+17974 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+17991 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.xpath: //button[.='Sign Out']
+17991 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+18052 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: [href='/login']
+18052 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+18076 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: [href='/login']
+18076 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+18129 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+18129 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+18144 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+18144 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+18203 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+18203 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+18225 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+18225 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+18262 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+18263 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+18285 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+18285 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+18344 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: password
+18345 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+18367 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: password
+18368 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+18464 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: password
+18465 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+18489 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: password
+18490 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+18521 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: password
+18521 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+18539 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: password
+18539 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+18584 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: login
+18585 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+18600 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: login
+18600 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+18645 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: [href='/add']
+18645 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+18976 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: [href='/add']
+18976 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+19150 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(1)
+19151 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+19217 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(1)
+19217 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+19318 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(1)
+19318 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+19338 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(1)
+19338 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+19367 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(1)
+19367 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+19381 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(1)
+19382 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+19419 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(2)
+19420 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+19441 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(2)
+19441 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+19495 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(2)
+19496 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+19513 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(2)
+19513 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+19571 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(2)
+19571 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+19583 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(2)
+19583 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+19609 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(3)
+19609 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+19628 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(3)
+19628 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+19675 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(3)
+19675 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+19689 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(3)
+19689 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+19712 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(3)
+19713 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+19724 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(3)
+19724 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+19759 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(4)
+19759 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+19777 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(4)
+19778 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+19827 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(4)
+19828 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+19839 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(4)
+19839 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+19860 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(4)
+19860 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+19871 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(4)
+19871 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+19907 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(5)
+19907 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+19927 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(5)
+19927 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+19981 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(5)
+19982 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+19995 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(5)
+19995 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+20015 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(5)
+20015 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+20027 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(5)
+20028 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+20075 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(6)
+20075 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+20092 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(6)
+20092 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+20145 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(6)
+20146 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+20158 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(6)
+20158 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+20181 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(6)
+20181 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+20192 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(6)
+20192 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+20217 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: .add_form__2rsm2 button
+20217 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+20233 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: .add_form__2rsm2 button
+20233 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+20280 [main] INFO  com.phonebook.utils.MyListener -- Before find elements:By.cssSelector: h2
+20281 [main] INFO  com.phonebook.utils.MyListener -- ***********************************
+20962 [main] INFO  com.phonebook.utils.MyListener -- Size of elements is: 11
+20963 [main] INFO  com.phonebook.utils.MyListener -- *******************************************
+20982 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: .contact-item_card__2SOIM
+20982 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+20998 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: .contact-item_card__2SOIM
+20998 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+21047 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.xpath: //button[.='Remove']
+21048 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+21068 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.xpath: //button[.='Remove']
+21068 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+21113 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveTest
+21113 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+21113 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
+21114 [main] INFO  com.phonebook.tests.TestBase -- Start testdeleteContactTest[]
+21115 [main] INFO  com.phonebook.utils.MyListener -- Before find elements:By.cssSelector: [href='/login']
+21115 [main] INFO  com.phonebook.utils.MyListener -- ***********************************
+31173 [main] INFO  com.phonebook.utils.MyListener -- Size of elements is: 0
+31174 [main] INFO  com.phonebook.utils.MyListener -- *******************************************
+31174 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.xpath: //button[.='Sign Out']
+31174 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+31190 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.xpath: //button[.='Sign Out']
+31191 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+31244 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: [href='/login']
+31244 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+31258 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: [href='/login']
+31259 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+31303 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+31303 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+31315 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+31315 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+31365 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+31365 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+31382 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+31382 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+31405 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+31405 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+31417 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+31417 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+31461 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: password
+31461 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+31474 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: password
+31474 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+31528 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: password
+31528 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+31543 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: password
+31543 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+31565 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: password
+31565 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+31575 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: password
+31575 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+31609 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: login
+31609 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+31626 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: login
+31626 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+31695 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: [href='/add']
+31696 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32101 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: [href='/add']
+32101 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32148 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(1)
+32148 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32163 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(1)
+32163 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32207 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(1)
+32207 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32225 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(1)
+32225 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32245 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(1)
+32245 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32255 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(1)
+32255 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32279 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(2)
+32279 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32290 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(2)
+32291 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32336 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(2)
+32337 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32350 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(2)
+32350 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32371 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(2)
+32371 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32383 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(2)
+32383 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32408 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(3)
+32409 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32420 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(3)
+32421 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32462 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(3)
+32463 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32475 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(3)
+32475 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32497 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(3)
+32497 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32508 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(3)
+32508 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32538 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(4)
+32538 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32550 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(4)
+32550 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32598 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(4)
+32598 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32613 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(4)
+32613 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32636 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(4)
+32636 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32647 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(4)
+32647 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32682 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(5)
+32683 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32693 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(5)
+32693 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32736 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(5)
+32736 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32747 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(5)
+32747 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32768 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(5)
+32768 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32780 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(5)
+32780 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32826 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(6)
+32826 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32839 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(6)
+32839 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32884 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(6)
+32884 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32896 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(6)
+32896 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32922 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: input:nth-child(6)
+32922 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32932 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: input:nth-child(6)
+32932 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+32954 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: .add_form__2rsm2 button
+32954 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+32969 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: .add_form__2rsm2 button
+32969 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+33012 [main] INFO  com.phonebook.utils.MyListener -- Before find elements:By.cssSelector: .contact-item_card__2SOIM
+33012 [main] INFO  com.phonebook.utils.MyListener -- ***********************************
+33569 [main] INFO  com.phonebook.utils.MyListener -- Size of elements is: 11
+33569 [main] INFO  com.phonebook.utils.MyListener -- *******************************************
+33569 [main] INFO  com.phonebook.utils.MyListener -- Before find elements:By.cssSelector: .contact-item_card__2SOIM
+33570 [main] INFO  com.phonebook.utils.MyListener -- ***********************************
+33651 [main] INFO  com.phonebook.utils.MyListener -- Size of elements is: 11
+33651 [main] INFO  com.phonebook.utils.MyListener -- *******************************************
+33651 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: .contact-item_card__2SOIM
+33651 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+33662 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: .contact-item_card__2SOIM
+33662 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+33710 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.xpath: //button[.='Remove']
+33710 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+33724 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.xpath: //button[.='Remove']
+33725 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+34795 [main] INFO  com.phonebook.utils.MyListener -- Before find elements:By.cssSelector: .contact-item_card__2SOIM
+34795 [main] INFO  com.phonebook.utils.MyListener -- ***********************************
+34857 [main] INFO  com.phonebook.utils.MyListener -- Size of elements is: 10
+34857 [main] INFO  com.phonebook.utils.MyListener -- *******************************************
+34857 [main] INFO  com.phonebook.utils.MyListener -- Before find elements:By.cssSelector: .contact-item_card__2SOIM
+34858 [main] INFO  com.phonebook.utils.MyListener -- ***********************************
+34904 [main] INFO  com.phonebook.utils.MyListener -- Size of elements is: 10
+34904 [main] INFO  com.phonebook.utils.MyListener -- *******************************************
+36909 [main] INFO  com.phonebook.tests.TestBase -- PASSED: deleteContactTest
+36910 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+36910 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================

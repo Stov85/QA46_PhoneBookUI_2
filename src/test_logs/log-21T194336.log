@@ -1,0 +1,77 @@
+746  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  D:\GitHub\QA46_PhoneBookUI_2\src\test\resources\negative.xml
+
+2763 [main] INFO  c.phonebook.fw.ApplicationManager -- Test start in Chrome Browser
+4152 [main] INFO  c.phonebook.fw.ApplicationManager -- Current url--> https://telranedu.web.app/home
+4317 [main] INFO  com.phonebook.tests.TestBase -- Start testloginNegativeWithoutEmailTests[]
+4319 [main] INFO  com.phonebook.utils.MyListener -- Before find elements:By.cssSelector: [href='/login']
+4319 [main] INFO  com.phonebook.utils.MyListener -- ***********************************
+4362 [main] INFO  com.phonebook.utils.MyListener -- Size of elements is: 1
+4363 [main] INFO  com.phonebook.utils.MyListener -- *******************************************
+4366 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: [href='/login']
+4366 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+4401 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: [href='/login']
+4402 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+4479 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: passwor
+4480 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+14557 [main] INFO  com.phonebook.utils.MyListener -- The test has a problem
+14557 [main] INFO  com.phonebook.utils.MyListener -- ************************************
+14557 [main] INFO  com.phonebook.utils.MyListener -- Method --> findElement
+14557 [main] INFO  com.phonebook.utils.MyListener -- ************************************
+14558 [main] INFO  com.phonebook.utils.MyListener -- Target Exception --> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='passwor']"}
+  (Session info: chrome=135.0.7049.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b472542a4fabb1e94c84c23d4c4aabd5, findElement {value=passwor, using=name}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.95, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51542}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51542/devtoo..., se:cdpVersion: 135.0.7049.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b472542a4fabb1e94c84c23d4c4aabd5
+14558 [main] INFO  com.phonebook.utils.MyListener -- ************************************
+14558 [main] INFO  com.phonebook.utils.MyListener -- Object --> ChromeDriver: chrome on windows (b472542a4fabb1e94c84c23d4c4aabd5)
+14559 [main] INFO  com.phonebook.utils.MyListener -- ************************************
+14781 [main] ERROR com.phonebook.tests.TestBase -- FAILED: loginNegativeWithoutEmailTests Screenshot path: D:\GitHub\QA46_PhoneBookUI_2\screenshots\screen-1745253830606.png
+14781 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+14781 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
+14786 [main] INFO  com.phonebook.tests.TestBase -- Start testexistedUserRegistrationNegativeTest[]
+14787 [main] INFO  com.phonebook.utils.MyListener -- Before find elements:By.cssSelector: [href='/login']
+14787 [main] INFO  com.phonebook.utils.MyListener -- ***********************************
+14810 [main] INFO  com.phonebook.utils.MyListener -- Size of elements is: 1
+14810 [main] INFO  com.phonebook.utils.MyListener -- *******************************************
+14811 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: [href='/login']
+14812 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+14835 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: [href='/login']
+14835 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+14895 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+14897 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+14922 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+14922 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+14980 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+14981 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+14999 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+15000 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+15029 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+15029 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+15045 [main] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+15045 [main] INFO  com.phonebook.utils.MyListener -- ***************************************
+15100 [main] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: passwor
+15100 [main] INFO  com.phonebook.utils.MyListener -- *****************************************
+25118 [main] INFO  com.phonebook.utils.MyListener -- The test has a problem
+25119 [main] INFO  com.phonebook.utils.MyListener -- ************************************
+25119 [main] INFO  com.phonebook.utils.MyListener -- Method --> findElement
+25119 [main] INFO  com.phonebook.utils.MyListener -- ************************************
+25119 [main] INFO  com.phonebook.utils.MyListener -- Target Exception --> org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='passwor']"}
+  (Session info: chrome=135.0.7049.95)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b472542a4fabb1e94c84c23d4c4aabd5, findElement {value=passwor, using=name}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.95, chrome: {chromedriverVersion: 135.0.7049.42 (0f351bbd2617..., userDataDir: C:\Users\user\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51542}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51542/devtoo..., se:cdpVersion: 135.0.7049.95, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b472542a4fabb1e94c84c23d4c4aabd5
+25119 [main] INFO  com.phonebook.utils.MyListener -- ************************************
+25119 [main] INFO  com.phonebook.utils.MyListener -- Object --> ChromeDriver: chrome on windows (b472542a4fabb1e94c84c23d4c4aabd5)
+25119 [main] INFO  com.phonebook.utils.MyListener -- ************************************
+25291 [main] ERROR com.phonebook.tests.TestBase -- FAILED: existedUserRegistrationNegativeTest Screenshot path: D:\GitHub\QA46_PhoneBookUI_2\screenshots\screen-1745253841124.png
+25291 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+25291 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================

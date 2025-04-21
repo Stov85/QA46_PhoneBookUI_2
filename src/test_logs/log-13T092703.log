@@ -1,0 +1,47 @@
+1005 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  D:\GitHub\QA46_PhoneBookUI_2\src\test\resources\smoky.xml
+
+4023 [main] INFO  com.phonebook.tests.TestBase -- Start testisHomeComponentPresentTest[]
+4086 [main] INFO  com.phonebook.tests.TestBase -- PASSED: isHomeComponentPresentTest
+4087 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+4087 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
+4094 [main] INFO  com.phonebook.tests.TestBase -- Start testloginPositiveTests[]
+6037 [main] INFO  com.phonebook.tests.TestBase -- PASSED: loginPositiveTests
+6038 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+6038 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
+6049 [main] INFO  com.phonebook.tests.TestBase -- Start testaddContactPositiveFromDataProviderTest[Oliver, Koen, 12345678909, qw@qw.com, Holon, QA]
+18957 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderTest
+18957 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+18957 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
+18958 [main] INFO  com.phonebook.tests.TestBase -- Start testaddContactPositiveFromDataProviderTest[Oliver, Koen, 12345678909, qw@qw.com, Holon, QA]
+31255 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderTest
+31255 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+31255 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
+31256 [main] INFO  com.phonebook.tests.TestBase -- Start testaddContactPositiveFromDataProviderTest[Oliver, Koen, 12345678909, qw@qw.com, Holon, QA]
+43547 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderTest
+43547 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+43547 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
+43550 [main] INFO  com.phonebook.tests.TestBase -- Start testaddContactPositiveFromDataProviderWithCsvTest[Contact{name='John', phone='1234567890'}]
+55873 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderWithCsvTest
+55873 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+55873 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
+55875 [main] INFO  com.phonebook.tests.TestBase -- Start testaddContactPositiveFromDataProviderWithCsvTest[Contact{name='John1', phone='12345678904'}]
+68152 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderWithCsvTest
+68152 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+68152 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
+68153 [main] INFO  com.phonebook.tests.TestBase -- Start testaddContactPositiveFromDataProviderWithCsvTest[Contact{name='John2', phone='123456789054'}]
+80280 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderWithCsvTest
+80280 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+80280 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
+80281 [main] INFO  com.phonebook.tests.TestBase -- Start testaddContactPositiveFromDataProviderWithCsvTest[Contact{name='John3', phone='123435678904'}]
+92461 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveFromDataProviderWithCsvTest
+92461 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+92461 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
+92463 [main] INFO  com.phonebook.tests.TestBase -- Start testaddContactPositiveTest[]
+104465 [main] INFO  com.phonebook.tests.TestBase -- PASSED: addContactPositiveTest
+104466 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+104466 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
+104468 [main] INFO  com.phonebook.tests.TestBase -- Start testdeleteContactTest[]
+119462 [main] INFO  com.phonebook.tests.TestBase -- PASSED: deleteContactTest
+119462 [main] INFO  com.phonebook.tests.TestBase -- Stop test
+119462 [main] INFO  com.phonebook.tests.TestBase -- ==================================================================
