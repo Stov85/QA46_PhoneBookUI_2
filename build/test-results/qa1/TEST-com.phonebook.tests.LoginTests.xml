@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.phonebook.tests.LoginTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-21T17:21:37" hostname="DESKTOP-889P2QA" time="1.761">
+  <properties/>
+  <testcase name="loginPositiveTests" classname="com.phonebook.tests.LoginTests" time="1.761"/>
+  <system-out><![CDATA[20:21:37.711 [Test worker] INFO  com.phonebook.tests.TestBase -- Start testloginPositiveTests[]
+20:21:37.714 [Test worker] INFO  com.phonebook.utils.MyListener -- Before find elements:By.cssSelector: [href='/login']
+20:21:37.715 [Test worker] INFO  com.phonebook.utils.MyListener -- ***********************************
+20:21:37.746 [Test worker] INFO  com.phonebook.utils.MyListener -- Size of elements is: 1
+20:21:37.747 [Test worker] INFO  com.phonebook.utils.MyListener -- *******************************************
+20:21:37.748 [Test worker] INFO  com.phonebook.tests.TestBase -- Login with data --> bonjovi111@gmail.com***********Bonjov321$
+20:21:37.749 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator will find By.cssSelector: [href='/login']
+20:21:37.749 [Test worker] INFO  com.phonebook.utils.MyListener -- *****************************************
+20:21:37.774 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator found: By.cssSelector: [href='/login']
+20:21:37.774 [Test worker] INFO  com.phonebook.utils.MyListener -- ***************************************
+20:21:37.869 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+20:21:37.869 [Test worker] INFO  com.phonebook.utils.MyListener -- *****************************************
+20:21:37.903 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+20:21:37.903 [Test worker] INFO  com.phonebook.utils.MyListener -- ***************************************
+20:21:37.976 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+20:21:37.977 [Test worker] INFO  com.phonebook.utils.MyListener -- *****************************************
+20:21:38.001 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+20:21:38.001 [Test worker] INFO  com.phonebook.utils.MyListener -- ***************************************
+20:21:38.036 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: email
+20:21:38.036 [Test worker] INFO  com.phonebook.utils.MyListener -- *****************************************
+20:21:38.056 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: email
+20:21:38.056 [Test worker] INFO  com.phonebook.utils.MyListener -- ***************************************
+20:21:38.116 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: password
+20:21:38.116 [Test worker] INFO  com.phonebook.utils.MyListener -- *****************************************
+20:21:38.146 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: password
+20:21:38.147 [Test worker] INFO  com.phonebook.utils.MyListener -- ***************************************
+20:21:38.203 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: password
+20:21:38.204 [Test worker] INFO  com.phonebook.utils.MyListener -- *****************************************
+20:21:38.222 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: password
+20:21:38.222 [Test worker] INFO  com.phonebook.utils.MyListener -- ***************************************
+20:21:38.246 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: password
+20:21:38.246 [Test worker] INFO  com.phonebook.utils.MyListener -- *****************************************
+20:21:38.263 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: password
+20:21:38.263 [Test worker] INFO  com.phonebook.utils.MyListener -- ***************************************
+20:21:38.297 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator will find By.name: login
+20:21:38.297 [Test worker] INFO  com.phonebook.utils.MyListener -- *****************************************
+20:21:38.318 [Test worker] INFO  com.phonebook.utils.MyListener -- The locator found: By.name: login
+20:21:38.318 [Test worker] INFO  com.phonebook.utils.MyListener -- ***************************************
+20:21:38.373 [Test worker] INFO  com.phonebook.utils.MyListener -- Before find elements:By.xpath: //button[.='Sign Out']
+20:21:38.374 [Test worker] INFO  com.phonebook.utils.MyListener -- ***********************************
+20:21:39.509 [Test worker] INFO  com.phonebook.utils.MyListener -- Size of elements is: 1
+20:21:39.509 [Test worker] INFO  com.phonebook.utils.MyListener -- *******************************************
+20:21:39.510 [Test worker] INFO  com.phonebook.tests.TestBase -- PASSED: loginPositiveTests
+20:21:39.510 [Test worker] INFO  com.phonebook.tests.TestBase -- Stop test
+20:21:39.510 [Test worker] INFO  com.phonebook.tests.TestBase -- ==================================================================
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
